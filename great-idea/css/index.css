@@ -263,6 +263,7 @@ border-radius: 3px;
 .services-info div p 	{
 	font-size: 1.3em;
 	width: 60%;
+	text-align: center;
 }
 
 .services-info div h1	{
